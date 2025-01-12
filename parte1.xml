@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tienda>
+  <productos>
+    <producto id="P001" estado="nuevo">
+      <nombre>Teclado Mecánico Gaming</nombre>
+      <descripcion>Teclado con interruptores Cherry MX y retroiluminación RGB.</descripcion>
+      <precio moneda="EUR">99.99</precio>
+      <categoria>Gaming</categoria>
+      <disponibilidad>En stock</disponibilidad>
+      <imagen>https://img.pccomponentes.com/articles/23/230686/00.jpg</imagen>
+      <fabricante>TechPro</fabricante>
+      <garantia>2 años</garantia>
+      <valoraciones>
+        <valoracion usuario="Anna">¡Excelente, muy cómodo!</valoracion>
+        <valoracion usuario="Juan">Buena calidad, pero un poco caro.</valoracion>
+      </valoraciones>
+    </producto>
+    <producto id="P002" estado="reformado">
+      <nombre>Ratón Gaming</nombre>
+      <descripcion>Ratón con sensor de 16.000 DPI y botones programables.</descripcion>
+      <precio moneda="EUR">49.99</precio>
+      <categoria>Gaming</categoria>
+      <disponibilidad>Agotado</disponibilidad>
+      <imagen>https://m.media-amazon.com/images/I/61fEpBysnmL._AC_UF1000,1000_QL80_.jpg</imagen>
+      <fabricante>ClickMax</fabricante>
+      <garantia>1 año</garantia>
+      <valoraciones>
+        <valoracion usuario="Marco">Muy preciso para juegos FPS.</valoracion>
+        <valoracion usuario="Clara">Buen diseño, pero falló después de un año.</valoracion>
+      </valoraciones>
+    </producto>
+  </productos>
+</tienda>

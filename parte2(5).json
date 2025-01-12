@@ -1,0 +1,137 @@
+{
+    "pokemons": [
+      {
+        "id": 25,
+        "nombre": "Pikachu",
+        "tipos": ["Eléctrico"],
+        "peso": "6 kg",
+        "altura": "0.4 m",
+        "estadisticas": {
+          "ps": 35,
+          "ataque": 55,
+          "defensa": 40,
+          "ataque_especial": 50,
+          "defensa_especial": 50,
+          "velocidad": 90
+        },
+        "movimientos": [
+          {
+            "nombre": "Impactrueno",
+            "descripcion": "Un ataque eléctrico que puede paralizar al objetivo.",
+            "potencia": 40,
+            "precision": 100,
+            "pp": 30
+          },
+          {
+            "nombre": "Rayo",
+            "descripcion": "Un potente ataque eléctrico que puede paralizar al objetivo.",
+            "potencia": 90,
+            "precision": 100,
+            "pp": 15
+          }
+        ],
+        "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/7/77/latest/20150621181250/Pikachu.png",
+        "evoluciones": ["Raichu"]
+      },
+      {
+        "id": 4,
+        "nombre": "Charmander",
+        "tipos": ["Fuego"],
+        "peso": "8.5 kg",
+        "altura": "0.6 m",
+        "estadisticas": {
+          "ps": 39,
+          "ataque": 52,
+          "defensa": 43,
+          "ataque_especial": 60,
+          "defensa_especial": 50,
+          "velocidad": 65
+        },
+        "movimientos": [
+          {
+            "nombre": "Ascuas",
+            "descripcion": "Un ataque de fuego que puede quemar al objetivo.",
+            "potencia": 40,
+            "precision": 100,
+            "pp": 25
+          },
+          {
+            "nombre": "Llamarada",
+            "descripcion": "Un potente ataque de fuego que puede quemar al objetivo.",
+            "potencia": 110,
+            "precision": 85,
+            "pp": 5
+          }
+        ],
+        "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/5/56/latest/20200307023245/Charmander.png",
+        "evoluciones": ["Charmeleon", "Charizard"]
+      },
+      {
+        "id": 1,
+        "nombre": "Bulbasaur",
+        "tipos": ["Planta", "Veneno"],
+        "peso": "6.9 kg",
+        "altura": "0.7 m",
+        "estadisticas": {
+          "ps": 45,
+          "ataque": 49,
+          "defensa": 49,
+          "ataque_especial": 65,
+          "defensa_especial": 65,
+          "velocidad": 45
+        },
+        "movimientos": [
+          {
+            "nombre": "Látigo Cepa",
+            "descripcion": "Un ataque de tipo planta que golpea con una liana.",
+            "potencia": 45,
+            "precision": 100,
+            "pp": 25
+          },
+          {
+            "nombre": "Rayo Solar",
+            "descripcion": "Un potente ataque de tipo planta que requiere un turno de carga.",
+            "potencia": 120,
+            "precision": 100,
+            "pp": 10
+          }
+        ],
+        "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/4/43/latest/20190406170624/Bulbasaur.png",
+        "evoluciones": ["Ivysaur", "Venusaur"]
+      },
+      {
+        "id": 7,
+        "nombre": "Squirtle",
+        "tipos": ["Agua"],
+        "peso": "9 kg",
+        "altura": "0.5 m",
+        "estadisticas": {
+          "ps": 44,
+          "ataque": 48,
+          "defensa": 65,
+          "ataque_especial": 50,
+          "defensa_especial": 64,
+          "velocidad": 43
+        },
+        "movimientos": [
+          {
+            "nombre": "Pistola Agua",
+            "descripcion": "Un ataque de agua que dispara un chorro al objetivo.",
+            "potencia": 40,
+            "precision": 100,
+            "pp": 25
+          },
+          {
+            "nombre": "Hidro Bomba",
+            "descripcion": "Un potente ataque de agua que dispara un gran chorro al objetivo.",
+            "potencia": 110,
+            "precision": 80,
+            "pp": 5
+          }
+        ],
+        "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/e/e3/latest/20160309230820/Squirtle.png",
+        "evoluciones": ["Wartortle", "Blastoise"]
+      }
+    ]
+  }
+  
